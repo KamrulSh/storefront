@@ -9,4 +9,5 @@
 7. add venv to vscode > command palette > select interpreter > (add location) using cmd: `pipenv —venv`
 8. `python3 manage.py startapp playground`
 9. Add `urls.py` in `playground` and link to the `storefront` `urls.py` for mapping the views
+10. Debug django: `pipenv install django-debug-toolbar`
 
