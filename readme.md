@@ -7,4 +7,5 @@
 5. `django-admin startproject storefront .`
 6. `python3 manage.py runserver`
 7. add venv to vscode > command palette > select interpreter > (add location) using cmd: `pipenv —venv`
+8. `python3 manage.py startapp playground`
 
