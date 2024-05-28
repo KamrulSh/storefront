@@ -15,7 +15,7 @@
 <img class="img-store" src="images/store_app.png" height=220 width=350>
 12. Create models and relationships
 
-### Create database
-
+### Create database (make migrations)
+1. `python manage.py makemigrations`
 
 
