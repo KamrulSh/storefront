@@ -10,4 +10,6 @@
 8. `python3 manage.py startapp playground`
 9. Add `urls.py` in `playground` and link to the `storefront` `urls.py` for mapping the views
 10. Debug django: `pipenv install django-debug-toolbar`
+11. Create 2 app for e-commerce website
+![store app](images/store_app.png)
 
